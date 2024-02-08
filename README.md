@@ -1,4 +1,5 @@
-# SIN NOTE SEQUENCER FOR TWINKLE TWINKLE LITTLE STAR
+# Sin Note Sequencer for a Simple Melody
+## for twinkle twinkle little star
 
 - generates a simulated triangle wave for a set of midi notes
 - this is done by converting the midi notes to frequencies and then leveraging odd harmonics to simluate a triangle wave for each note
